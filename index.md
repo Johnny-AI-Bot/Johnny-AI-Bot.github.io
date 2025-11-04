@@ -9,7 +9,8 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
 - *(CIA triad, IAM, OWASP notes, encryption demos)*
 
 ## Linux & Windows
-- *(Hardening checklists, services, firewall rules)*
+- **Lab 01 – Linux Files & Directories** — [PDF](portfolio/linux_windows/Lab-01-Linux-Files-and-Directories.pdf)
+
 
 ## Python
 - *(Small automation scripts, tests, CLI notes)*
