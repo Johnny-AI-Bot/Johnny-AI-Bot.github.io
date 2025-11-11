@@ -11,7 +11,7 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
 ## Linux & Windows
 - **Lab 01 – Linux Files & Directories** – [PDF](portfolio/linux_windows/Lab-01-Linux-Files-and-Directories.pdf)
 
-- **Lab 02 – Linux Users, Groups, and Permissions** – [PDF](portfolio/linux_windows/Lab-02-Linux-Users-Groups-and-Permissions.pdf)
+- **Lab 02 – Linux Users, Groups, and Permissions** – [PDF](portfolio/linux_windows/Lab-02-Linux Users-Groups-and-Permissions.pdf)
 
 
 ## Python
