@@ -1,4 +1,4 @@
-# John’s Cybersecurity & Cloud Portfolio
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0db2e8d1-a15f-49fd-beca-26d0756ad3b5" /># John’s Cybersecurity & Cloud Portfolio
 
 Welcome! This site collects my hands-on labs and notes across networking, security basics, Linux/Windows, Python, Java, JavaScript, and Azure.
 
@@ -15,14 +15,17 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
 
 - **Lab 02 – Linux Users, Groups, and Permissions**  
   [View PDF](portfolio/linux_windows/Lab-02-Linux-Users-Groups-and-Permissions.pdf)
-
+  
 - **Lab 03 – Linux Processes and Services**  
   Managed running processes and system services using systemd, ps, top, and service controls  
-  [View PDF](portfolio/linux_windows/Lab-03-Linux Processes and Services.pdf)
+  [View PDF](portfolio/linux_windows/Lab-03-Linux%20Processes%20and%20Services.pdf)
 
 - **Lab 04 – Linux Network Services**  
   Configured and secured network services including SSH, Apache, Samba, and firewall rules; validated access from a Windows client  
-  [View PDF](portfolio/linux_windows/Lab-04-Linux Network Services.pdf)
+  [View PDF](portfolio/linux_windows/Lab-04-Linux%20Network%20Services.pdf)
+
+
+
   
 ## Python
 - *(Small automation scripts, tests, CLI notes)*
