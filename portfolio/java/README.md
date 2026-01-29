@@ -1,4 +1,4 @@
-# Linux System Administration Projects
+#Java Projects
 
 This folder contains hands-on Linux system administration work completed as part of my technical development in IT & Cybersecurity. These projects demonstrate practical skills in working with the Linux command line, organizing system resources, managing user access, and preparing file structures for real-world web application environments.
 
