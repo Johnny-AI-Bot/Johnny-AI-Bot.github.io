@@ -17,11 +17,13 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
   [View PDF](portfolio/linux_windows/Lab-02-Linux-Users-Groups-and-Permissions.pdf)
 
 - **Lab 03 – Linux Processes and Services**  
-  [View PDF](portfolio/linux_windows/Lab-03-Linux-Processes-and-Services.pdf)
+  Managed running processes and system services using systemd, ps, top, and service controls  
+  [View PDF](portfolio/linux_windows/Lab-03-Linux Processes and Services.pdf)
 
 - **Lab 04 – Linux Network Services**  
-  [View PDF](portfolio/linux_windows/Lab-04-Linux-Network-Services.pdf)
-
+  Configured and secured network services including SSH, Apache, Samba, and firewall rules; validated access from a Windows client  
+  [View PDF](portfolio/linux_windows/Lab-04-Linux Network Services.pdf)
+  
 ## Python
 - *(Small automation scripts, tests, CLI notes)*
 
