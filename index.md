@@ -22,7 +22,6 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
 - **Lab 04 – Linux Network Services**  
   [View PDF](portfolio/linux_windows/Lab-04-Linux-Network-Services.pdf)
 
-
 ## Python
 - *(Small automation scripts, tests, CLI notes)*
 
