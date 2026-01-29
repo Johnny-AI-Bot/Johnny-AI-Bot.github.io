@@ -11,20 +11,22 @@ The focus of this work is on building clean, readable Java code while reinforcin
 
 | Project Name | Description | File |
 |-------------|-------------|------|
-| **Java Sales Tax Calculator (Lab 01)** | Developed a basic Java console application to calculate sales tax using variables, constants, arithmetic operations, and formatted console output. Demonstrates understanding of Java program structure, data types, and entry-point execution. | `Lab_01.java` |
 ### Lab 14 – CMD Scripting (Java)
-- Developed command-line Java utilities using arguments, loops, and input/output
-- Focused on basic scripting concepts, program flow, and user interaction
+- Developed Java-based command-line tools that process user input via arguments
+- Implemented program flow using loops, conditionals, and basic input/output handling
+- Reinforced scripting-style logic commonly used in automation and system utilities
 - Repository: https://github.com/Johnny-AI-Bot/Lab-14-CMD-Scripting
 
 ### Lab 13 – FileListMaker (Java)
-- Built a Java application to generate and manage file lists
-- Reinforced object-oriented programming concepts and use of collections
+- Built a Java application to generate, manage, and manipulate file lists
+- Applied object-oriented programming principles and collection frameworks
+- Focused on organizing data structures and managing program state
 - Repository: https://github.com/Johnny-AI-Bot/Lab-13-FileListMaker
 
 ### Lab 12 – File_Away (Java)
-- Created a Java program to organize files into directories automatically
-- Demonstrated file system APIs, exception handling, and structured logic
+- Created a Java utility to automatically organize files into structured directories
+- Used Java file system APIs with error handling and conditional logic
+- Demonstrated practical automation techniques for file management tasks
 - Repository: https://github.com/Johnny-AI-Bot/Lab-12-File_Away
 ---
 
