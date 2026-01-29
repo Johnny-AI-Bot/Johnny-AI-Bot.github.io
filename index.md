@@ -10,7 +10,8 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
 
 ## Linux & Windows
 
-- **Lab 01 – Linux Files & Directories**  
+- **Lab 01 – Linux Files & Directories**
+- Created a full directory structure for a web application, added HTML placeholder content, managed files using terminal tools, and tested webpage rendering.
   [View PDF](portfolio/linux_windows/Lab-01-Linux-Files-and-Directories.pdf)
 
 - **Lab 02 – Linux Users, Groups, and Permissions**  
