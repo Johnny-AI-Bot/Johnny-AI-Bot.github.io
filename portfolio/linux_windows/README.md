@@ -10,6 +10,8 @@ This folder contains hands-on Linux system administration work completed as part
 |-------------|-------------|------|
 | **Linux Files and Directories Setup** | Created a full directory structure for a web application, added HTML placeholder content, managed files using terminal tools, and tested webpage rendering. | `Lab-01-Linux-Files-and-Directories.pdf` |
 | **Linux Users, Groups, and Permissions** | Configured system users based on job roles, assigned group permissions, set up role-based directory access, and enabled sudo privileges for team leads. | `Lab-02-Linux-Users-Groups-and-Permissions.pdf` |
+| **Linux Processes and Services Management** | Managed system services using `systemctl`, monitored running processes, started/stopped critical services, and validated system stability. | `Lab-03-Linux-Processes-and-Services.pdf` |
+| **Linux Network Services & Secure File Sharing** | Configured Apache web services, Samba file sharing for Windows clients, firewall rules, SSH access, and tested cross-platform connectivity in a secure lab environment. | `Lab-04-Linux-Network-Services.pdf` |
 
 ---
 
