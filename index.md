@@ -9,8 +9,18 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
 - *(CIA triad, IAM, OWASP notes, encryption demos)*
 
 ## Linux & Windows
-- **Lab 01 – Linux Files & Directories** – [PDF](portfolio/linux_windows/Lab-01-Linux-Files-and-Directories.pdf)
-- **Lab 02 – Linux Users, Groups, and Permissions** – [PDF](portfolio/linux_windows/Lab-02-Linux-Users-Groups-and-Permissions.pdf)
+
+- **Lab 01 – Linux Files & Directories**  
+  [View PDF](portfolio/linux_windows/Lab-01-Linux-Files-and-Directories.pdf)
+
+- **Lab 02 – Linux Users, Groups, and Permissions**  
+  [View PDF](portfolio/linux_windows/Lab-02-Linux-Users-Groups-and-Permissions.pdf)
+
+- **Lab 03 – Linux Processes and Services**  
+  [View PDF](portfolio/linux_windows/Lab-03-Linux-Processes-and-Services.pdf)
+
+- **Lab 04 – Linux Network Services**  
+  [View PDF](portfolio/linux_windows/Lab-04-Linux-Network-Services.pdf)
 
 
 ## Python
