@@ -14,7 +14,8 @@ Welcome! This site collects my hands-on labs and notes across networking, securi
 - Created a full directory structure for a web application, added HTML placeholder content, managed files using terminal tools, and tested webpage rendering.
   [View PDF](portfolio/linux_windows/Lab-01-Linux-Files-and-Directories.pdf)
 
-- **Lab 02 – Linux Users, Groups, and Permissions**  
+- **Lab 02 – Linux Users, Groups, and Permissions**
+- Configured system users based on job roles, assigned group permissions, set up role-based directory access, and enabled sudo privileges for team leads.
   [View PDF](portfolio/linux_windows/Lab-02-Linux-Users-Groups-and-Permissions.pdf)
   
 - **Lab 03 – Linux Processes and Services**  
