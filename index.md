@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0db2e8d1-a15f-49fd-beca-26d0756ad3b5" /># John’s Cybersecurity & Cloud Portfolio
+# John’s Cybersecurity & Cloud Portfolio
 
 Welcome! This site collects my hands-on labs and notes across networking, security basics, Linux/Windows, Python, Java, JavaScript, and Azure.
 
