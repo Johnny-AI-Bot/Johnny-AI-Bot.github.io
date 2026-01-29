@@ -1,6 +1,9 @@
-#Java Projects
+# ☕ Java Projects
 
-This folder contains hands-on Linux system administration work completed as part of my technical development in IT & Cybersecurity. These projects demonstrate practical skills in working with the Linux command line, organizing system resources, managing user access, and preparing file structures for real-world web application environments.
+This folder contains hands-on Java programming projects completed as part of my technical development in IT and Cybersecurity. These projects demonstrate foundational object-oriented programming skills, problem-solving ability, and an understanding of how backend logic supports secure and reliable applications.
+
+The focus of this work is on building clean, readable Java code while reinforcing core programming concepts commonly used in enterprise and security-related software environments.
+
 
 ---
 
@@ -8,35 +11,40 @@ This folder contains hands-on Linux system administration work completed as part
 
 | Project Name | Description | File |
 |-------------|-------------|------|
-| **Linux Files and Directories Setup** | Created a full directory structure for a web application, added HTML placeholder content, managed files using terminal tools, and tested webpage rendering. | `Lab-01-Linux-Files-and-Directories.pdf` |
-| **Linux Users, Groups, and Permissions** | Configured system users based on job roles, assigned group permissions, set up role-based directory access, and enabled sudo privileges for team leads. | `Lab-02-Linux-Users-Groups-and-Permissions.pdf` |
-
+| **Java Sales Tax Calculator (Lab 01)** | Developed a basic Java console application to calculate sales tax using variables, constants, arithmetic operations, and formatted console output. Demonstrates understanding of Java program structure, data types, and entry-point execution. | `Lab_01.java` |
 ---
 
 ## 🧠 Skills Demonstrated
-- Linux command-line navigation (`cd`, `ls`, `mkdir`, etc.)
-- Creating and managing user accounts (`useradd`, `passwd`, `usermod`)
-- Configuring and assigning groups
-- Setting directory and file permissions (`chmod`, `chown`, `chgrp`)
-- Editing files using `vi`
-- Secure password and account handling (`/etc/passwd`, `/etc/shadow`)
-- Testing and validating configurations with GUI + CLI tools
+- Java syntax and program structure
+- Object-oriented programming fundamentals
+- Conditional logic and control flow
+- Loops and iteration (`for`, `while`)
+- Method creation and reuse
+- Console input/output handling
+- Debugging and code testing
+- Writing clean, readable, and maintainable code
 
 ---
 
 ## 🎯 Purpose and Real-World Application
-These tasks reflect what system administrators and junior security analysts do daily in real environments:
+These projects reflect the type of foundational programming work expected of entry-level developers, system administrators, and cybersecurity professionals:
 
-- Setting up development environments
-- Securing access to sensitive directories and files
-- Ensuring users have the **least privilege** required to do their work
-- Preparing file structures for web server hosting and deployment
+- Automating repetitive tasks
+- Building backend logic for tools and applications
+- Understanding how code executes and handles data
+- Developing problem-solving skills used in scripting and security tooling
+- Preparing for secure coding and application security concepts
 
-This work demonstrates foundational sysadmin and DevOps readiness, which carries directly into cybersecurity roles as well.
+Strong programming fundamentals are essential for roles in cybersecurity, cloud security, and IT automation, making this work directly relevant to my long-term career goals.
 
 ---
 
 ## 🚀 Next Step
-More improvements and automations will be added over time — including shell scripts and Ansible setup to configure environments automatically.
+Future improvements will include:
+
+- Expanding projects into multi-class Java applications
+- Adding input validation and error handling
+- Applying secure coding practices
+- Exploring Java-based security concepts and tooling
 
 Stay tuned.
