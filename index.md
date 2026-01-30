@@ -18,6 +18,7 @@ Hands-on networking projects focused on enterprise network design, segmentation,
 
 ## Security Basics
 - *(CIA triad, IAM, OWASP notes, encryption demos)*
+- 📂 Folder: `security/
 
 ## Linux & Windows
 
@@ -44,9 +45,14 @@ Hands-on networking projects focused on enterprise network design, segmentation,
   
 ## Python
 - *(Small automation scripts, tests, CLI notes)*
+- 
+📂 Folder: `python/`
 
 ## Azure
 - *(Monitor / Key Vault / Sentinel labs, budgets, KQL queries)*
+  
+
+📂 Folder: `azure/`
 
 ## Java / JavaScript
 
@@ -58,9 +64,11 @@ Hands-on networking projects focused on enterprise network design, segmentation,
 - Lab 12 – File_Away (Java): [Repo](https://github.com/Johnny-AI-Bot/Lab_12_File_Away)  
   *Organizes files into folders; file API & error handling.*
 
+  📂 Folder: `java/
+
 **JavaScript**
 
-
+📂 Folder: `javascript/
 ---
 
 **About me:** Second-year Cybersecurity student focused on cloud security and automation.  
