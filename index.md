@@ -36,6 +36,7 @@ Hands-on networking projects focused on enterprise network design, segmentation,
 - **Lab 04 – Linux Network Services**  
   Configured and secured network services including SSH, Apache, Samba, and firewall rules; validated access from a Windows client  
   [View PDF](portfolio/linux_windows/Lab-04-Linux%20Network%20Services.pdf)
+  📂 Folder: linux_windows/
 
 
 
