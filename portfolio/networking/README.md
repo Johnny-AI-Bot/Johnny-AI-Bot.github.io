@@ -8,20 +8,24 @@ This folder contains hands-on networking labs focused on enterprise network desi
 
 | Project Name | Description | File |
 |-------------|------------|------|
-| Network Topology Design | Designed and implemented multi-device network topologies using routers, switches, and end devices to simulate enterprise environments. | Packet Tracer |
-| VLANs & Inter-VLAN Routing | Configured VLANs, trunk links, and routing between segmented networks to enforce logical separation and access control. | Packet Tracer |
-| NAT & Address Translation | Implemented NAT to allow private networks to communicate with external networks while preserving internal addressing. | Packet Tracer |
-| Network Traffic Analysis | Captured and analyzed packet-level traffic using Wireshark to understand protocol behavior and client-server communication. | PDF |
-
+| Enterprise Network Services | Deployed and validated core enterprise services including DHCP, DNS, HTTP, and firewall rules within a segmented network environment. Verified functionality through client testing and traffic flow analysis. | enterprise-services/ |
+| VLANs & Trunking | Designed segmented networks using VLANs and 802.1Q trunking to separate departmental traffic. Configured access vs trunk ports and validated inter-VLAN communication. | vlans-trunking/ |
+| NAT & Address Translation | Implemented Network Address Translation (NAT) to enable private internal networks to communicate with external networks while preserving internal IP addressing. | nat/ |
+| EIGRP Dynamic Routing | Configured and validated EIGRP for dynamic routing across multiple routers, demonstrating route propagation, neighbor relationships, and scalable enterprise routing design. | eigrp-routing/ |
+| Hierarchical Network Design | Designed a hierarchical enterprise network model (core, distribution, access layers) to improve scalability, fault isolation, and performance. | hierarchical-network-design/ |
 ---
 
 ## 🧠 Skills Demonstrated
-- IP addressing and subnetting
-- VLAN configuration and network segmentation
-- Routing and NAT concepts
-- Network troubleshooting and validation
-- Packet analysis using Wireshark
-- Understanding of enterprise network design principles
+
+- Enterprise network design and segmentation
+- VLAN configuration and trunking (802.1Q)
+- Dynamic routing with EIGRP
+- Network Address Translation (NAT)
+- DHCP, DNS, and HTTP service deployment
+- Firewall rule configuration and access control
+- Traffic flow validation and troubleshooting
+- Cisco Packet Tracer topology design
+
 
 ---
 
