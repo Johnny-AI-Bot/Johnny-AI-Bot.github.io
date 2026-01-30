@@ -3,6 +3,17 @@
 Welcome! This site collects my hands-on labs and notes across networking, security basics, Linux/Windows, Python, Java, JavaScript, and Azure.
 
 ## Networking
+### 🌐 Networking & Infrastructure  
+Hands-on networking projects focused on enterprise network design, segmentation, routing, and traffic analysis using Cisco Packet Tracer and Wireshark.
+
+**Topics include:**
+- VLANs & trunking
+- NAT & address translation
+- Dynamic routing (EIGRP)
+- Hierarchical network design
+- Enterprise services (DHCP, DNS, HTTP, firewall rules)
+
+📂 Folder: `networking/`
 
 
 ## Security Basics
